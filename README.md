@@ -35,4 +35,8 @@
 
 ![bst3](https://user-images.githubusercontent.com/45071833/102359244-e0707000-3ff3-11eb-8530-6e83732c698f.JPG)
 
+## Project 4 : KNAPSACK Problems
+
+![냅색](https://user-images.githubusercontent.com/45071833/102360788-ce8fcc80-3ff5-11eb-9d27-e306a5675c35.JPG)
+ 
 
