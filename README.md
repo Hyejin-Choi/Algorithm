@@ -26,6 +26,8 @@
 
 ![linkedlist](https://user-images.githubusercontent.com/45071833/102360247-1feb8c00-3ff5-11eb-9412-54fbd7356934.JPG)
 
+시간줄이는 것이 관건!!!!!
+
 
 ## Project 3 : Binary search tree using doubly-linked lists
 
@@ -35,8 +37,14 @@
 
 ![bst3](https://user-images.githubusercontent.com/45071833/102359244-e0707000-3ff3-11eb-8530-6e83732c698f.JPG)
 
+완성시키고 눈물흘렸다..
+
 ## Project 4 : KNAPSACK Problems
 
 ![냅색](https://user-images.githubusercontent.com/45071833/102360788-ce8fcc80-3ff5-11eb-9d27-e306a5675c35.JPG)
+
+냅색을 완벽하게 구현하지는 못했다.. 알고리즘 열심히하자..
+
+
  
 
