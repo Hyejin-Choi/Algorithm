@@ -4,11 +4,15 @@
 
 과목을 이수하면서 수행했던 과제들을 집중적으로 아래와 같이 나타내었습니다.
 
-## Project 1 : Sort 구현
+## Project 1 : gen_binary_search_array_scanf
 
 ### **주제명**  : ListSort를 이용해 Sort Algorithm 구현하기
 
-### **주제명** :
+### **주제명** : ArraySort를 이용해 Sort Algorithm 구현하기
+- insertion &(amp) merge 이용
+
+![array_insertion](https://user-images.githubusercontent.com/45071833/102359616-5bd22180-3ff4-11eb-8092-20f237c87f9e.JPG)
+
 
 
 ## Project 3 : Binary search tree using doubly-linked lists
