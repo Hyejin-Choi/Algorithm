@@ -7,9 +7,12 @@
 ## Project 1 : gen_binary_search_array_scanf
 
 ### **주제명**  : ListSort를 이용해 Sort Algorithm 구현하기
+- insertion
+-merge
 
 ### **주제명** : ArraySort를 이용해 Sort Algorithm 구현하기
-- insertion &(amp) merge 이용
+- insertion
+- merge
 
 ![array_insertion](https://user-images.githubusercontent.com/45071833/102359616-5bd22180-3ff4-11eb-8092-20f237c87f9e.JPG)
 
