@@ -8,7 +8,10 @@
 
 ### **주제명**  : ListSort를 이용해 Sort Algorithm 구현하기
 - insertion
--merge
+- merge
+
+![array_insertion](https://user-images.githubusercontent.com/45071833/102359616-5bd22180-3ff4-11eb-8092-20f237c87f9e.JPG)
+
 
 ### **주제명** : ArraySort를 이용해 Sort Algorithm 구현하기
 - insertion
@@ -16,6 +19,12 @@
 
 ![array_insertion](https://user-images.githubusercontent.com/45071833/102359616-5bd22180-3ff4-11eb-8092-20f237c87f9e.JPG)
 
+
+## Project 2 : Linked List with ArraySort and List Sort
+- ArraySort
+- ListSort
+
+![linkedlist](https://user-images.githubusercontent.com/45071833/102360247-1feb8c00-3ff5-11eb-9412-54fbd7356934.JPG)
 
 
 ## Project 3 : Binary search tree using doubly-linked lists
@@ -25,3 +34,5 @@
 ![bst2](https://user-images.githubusercontent.com/45071833/102359240-dfd7d980-3ff3-11eb-820a-48e026738c63.JPG)
 
 ![bst3](https://user-images.githubusercontent.com/45071833/102359244-e0707000-3ff3-11eb-8530-6e83732c698f.JPG)
+
+
